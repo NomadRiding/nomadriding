@@ -6,9 +6,6 @@
 Software Engineer because Mage isn't possible in this universe.<br>I am currently working on a Trivia Web Application using React and Java.<br>1% better each day - Personal Goal.<br>Digital Nomad in the making
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nomadriding) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fundora/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@nomadriding) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@nomadriding) 
-
 # 💻 Tech Stack:
 <h3 align="left">Languages:</h3>
 
@@ -97,4 +94,9 @@ Software Engineer because Mage isn't possible in this universe.<br>I am currentl
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nomadriding&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomadriding&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nomadriding) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fundora/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@nomadriding) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@nomadriding) 
+
 
